@@ -7,12 +7,12 @@ Demo Site of This Project: Coming Soon
 ### About Repository
 I did not compile this myself, all I did was fork it from VinMannie, thanks to him for doing it for me
 
-### Issues
-There aren't many issues with this port, except an obvious one, being that:
-- Main Menu Crashes when Pressing any Key
-
-Luckily there is a workaround for this
- - By pressing the ESC Key, you can enter the Debug Menu, which has many options, including a Level Select, so you can play all the levels using that method
+> [!WARNING]
+> There aren't many issues with this port, except an obvious one, being that:
+> - Main Menu Crashes when Pressing any Key
+>
+> Luckily there is a workaround for this
+> - By pressing the ESC Key, you can enter the Debug Menu, which has many options, including a Level Select, so you can play all the levels using that method
 
 ### To Run this yourself
 - Get the files from this repo (Code -> Download ZIP or download from the Releases Page)
