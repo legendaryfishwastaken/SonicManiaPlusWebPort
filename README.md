@@ -2,7 +2,7 @@
 
 WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
 
-Demo Site of This Project: Coming Soon
+Demo Site of This Project: http://sonicmaniawebport.x10.mx/RSDKv5.html
 
 ### About Repository
 I did not compile this myself, all I did was fork it from VinMannie, thanks to him for doing it for me
