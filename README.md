@@ -19,7 +19,7 @@ I did not compile this myself, all I did was fork it from VinMannie, thanks to h
 >  ![image](https://github.com/burnedpopcorn/SonicManiaPlusWebPort/blob/main/sm%2Bimages/sm%2Bdevmenu.png)
 
 ### To Run this yourself
-- Get the files from this repo (Code -> Download ZIP or download from the Releases Page)
+- Get the files from this repo (Code -> Download ZIP)
 - Put the files in a web server (Because this was made with Emscripten, it CANNOT be run locally with the file:// protocol, as that results in CORS issues because of Emscripten Limitations)
 - Open RSDKv5.html from within your website (https:// (your domain) /RSDKv5.html)
 
@@ -29,6 +29,6 @@ I did not compile this myself, all I did was fork it from VinMannie, thanks to h
 If you want to run this locally, use something like python to run a temporary web server on your machine
 
 To do this using Python, you do by
-- Again, Get the files from this repo (Code -> Download ZIP / Download from Releases Page)
+- Again, Get the files from this repo (Code -> Download ZIP)
 - Entering the directory containing RSDKv5.html and other files and typing the command python3 -m http.server in the linux terminal or py -m http.server for windows powershell given you installed python
 - At which point you can enter http://localhost:8000/RSDKv5.html to play the game locally
