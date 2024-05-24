@@ -1,6 +1,6 @@
 # Sonic Mania Plus Web Port
 
-WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
+WebAssembly Port of Sonic Mania, which includes the Mania Plus DLC
 
 Demo Site of This Project: http://sonicmaniawebport.x10.mx/RSDKv5.html
 
