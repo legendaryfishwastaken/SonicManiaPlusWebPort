@@ -4,6 +4,8 @@ WebAssembly Port of Sonic Mania, which includes the Mania Plus DLC
 
 Demo Site of This Project: http://sonicmaniawebport.x10.mx/RSDKv5.html
 
+![image](https://github.com/burnedpopcorn/SonicManiaPlusWebPort/blob/main/sm%2Bimages/sm%2Btitle.png)
+
 ### About Repository
 I did not compile this myself, all I did was fork it from VinMannie, thanks to him for doing it for me
 
@@ -13,6 +15,8 @@ I did not compile this myself, all I did was fork it from VinMannie, thanks to h
 >
 > Luckily there is a workaround for this
 > - By pressing the ESC Key, you can enter the Debug Menu, which has many options, including a Level Select, so you can play all the levels using that method
+>
+>  ![image](https://github.com/burnedpopcorn/SonicManiaPlusWebPort/blob/main/sm%2Bimages/sm%2Bdevmenu.png)
 
 ### To Run this yourself
 - Get the files from this repo (Code -> Download ZIP or download from the Releases Page)
