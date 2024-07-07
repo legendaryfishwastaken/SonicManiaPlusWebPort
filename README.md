@@ -2,7 +2,7 @@
 
 WebAssembly Port of Sonic Mania, which includes the Mania Plus DLC
 
-Demo Site of This Project: https://sonicwebports.x10.mx/sonicmania/RSDKv5.html
+Demo Site of This Project: http://dummydomain.x10.mx/sonicmania/RSDKv5.html
 
 ![image](https://github.com/burnedpopcorn/SonicManiaPlusWebPort/blob/main/sm%2Bimages/sm%2Btitle.png)
 
